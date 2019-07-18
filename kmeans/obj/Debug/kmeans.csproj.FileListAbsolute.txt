@@ -1,0 +1,76 @@
+C:\Users\bcs2\Documents\sc9927\rad\kmeans\kmeans\bin\Debug\kmeans.exe.config
+C:\Users\bcs2\Documents\sc9927\rad\kmeans\kmeans\bin\Debug\kmeans.exe
+C:\Users\bcs2\Documents\sc9927\rad\kmeans\kmeans\bin\Debug\kmeans.pdb
+C:\Users\bcs2\Documents\sc9927\rad\kmeans\kmeans\obj\Debug\kmeans.csprojResolveAssemblyReference.cache
+C:\Users\bcs2\Documents\sc9927\rad\kmeans\kmeans\obj\Debug\kmeans.Form1.resources
+C:\Users\bcs2\Documents\sc9927\rad\kmeans\kmeans\obj\Debug\kmeans.Properties.Resources.resources
+C:\Users\bcs2\Documents\sc9927\rad\kmeans\kmeans\obj\Debug\kmeans.csproj.GenerateResource.Cache
+C:\Users\bcs2\Documents\sc9927\rad\kmeans\kmeans\obj\Debug\kmeans.exe
+C:\Users\bcs2\Documents\sc9927\rad\kmeans\kmeans\obj\Debug\kmeans.pdb
+E:\sc9927\rad\kmeans\kmeans\bin\Debug\kmeans.exe.config
+E:\sc9927\rad\kmeans\kmeans\obj\Debug\kmeans.exe
+E:\sc9927\rad\kmeans\kmeans\obj\Debug\kmeans.pdb
+E:\sc9927\rad\kmeans\kmeans\bin\Debug\kmeans.exe
+E:\sc9927\rad\kmeans\kmeans\bin\Debug\kmeans.pdb
+E:\sc9927\rad\kmeans\kmeans\obj\Debug\kmeans.csprojResolveAssemblyReference.cache
+E:\sc9927\rad\kmeans\kmeans\obj\Debug\kmeans.Form1.resources
+E:\sc9927\rad\kmeans\kmeans\obj\Debug\kmeans.Properties.Resources.resources
+E:\sc9927\rad\kmeans\kmeans\obj\Debug\kmeans.csproj.GenerateResource.Cache
+E:\kmeans\kmeans\bin\Debug\kmeans.exe.config
+E:\kmeans\kmeans\obj\Debug\kmeans.exe
+E:\kmeans\kmeans\obj\Debug\kmeans.pdb
+E:\kmeans\kmeans\obj\Debug\kmeans.csprojResolveAssemblyReference.cache
+E:\kmeans\kmeans\obj\Debug\kmeans.Form1.resources
+E:\kmeans\kmeans\obj\Debug\kmeans.Properties.Resources.resources
+E:\kmeans\kmeans\obj\Debug\kmeans.csproj.GenerateResource.Cache
+E:\kmeans\kmeans\bin\Debug\kmeans.exe
+E:\kmeans\kmeans\bin\Debug\kmeans.pdb
+C:\Users\bcs2\Desktop\kmeans\kmeans\bin\Debug\kmeans.exe.config
+C:\Users\bcs2\Desktop\kmeans\kmeans\obj\Debug\kmeans.exe
+C:\Users\bcs2\Desktop\kmeans\kmeans\obj\Debug\kmeans.pdb
+C:\Users\bcs2\Desktop\kmeans\kmeans\bin\Debug\kmeans.exe
+C:\Users\bcs2\Desktop\kmeans\kmeans\bin\Debug\kmeans.pdb
+C:\Users\bcs2\Desktop\kmeans\kmeans\obj\Debug\kmeans.csprojResolveAssemblyReference.cache
+C:\Users\bcs2\Desktop\kmeans\kmeans\obj\Debug\kmeans.Form1.resources
+C:\Users\bcs2\Desktop\kmeans\kmeans\obj\Debug\kmeans.Properties.Resources.resources
+C:\Users\bcs2\Desktop\kmeans\kmeans\obj\Debug\kmeans.csproj.GenerateResource.Cache
+G:\kmeans\kmeans\bin\Debug\kmeans.exe.config
+G:\kmeans\kmeans\bin\Debug\kmeans.exe
+G:\kmeans\kmeans\bin\Debug\kmeans.pdb
+G:\kmeans\kmeans\obj\Debug\kmeans.csprojAssemblyReference.cache
+G:\kmeans\kmeans\obj\Debug\kmeans.Form1.resources
+G:\kmeans\kmeans\obj\Debug\kmeans.Properties.Resources.resources
+G:\kmeans\kmeans\obj\Debug\kmeans.csproj.GenerateResource.cache
+G:\kmeans\kmeans\obj\Debug\kmeans.csproj.CoreCompileInputs.cache
+G:\kmeans\kmeans\obj\Debug\kmeans.exe
+G:\kmeans\kmeans\obj\Debug\kmeans.pdb
+C:\Users\sasankaa\Documents\rad\kmeans\kmeans\bin\Debug\kmeans.exe.config
+C:\Users\sasankaa\Documents\rad\kmeans\kmeans\bin\Debug\kmeans.exe
+C:\Users\sasankaa\Documents\rad\kmeans\kmeans\bin\Debug\kmeans.pdb
+C:\Users\sasankaa\Documents\rad\kmeans\kmeans\obj\Debug\kmeans.csprojAssemblyReference.cache
+C:\Users\sasankaa\Documents\rad\kmeans\kmeans\obj\Debug\kmeans.Form1.resources
+C:\Users\sasankaa\Documents\rad\kmeans\kmeans\obj\Debug\kmeans.Properties.Resources.resources
+C:\Users\sasankaa\Documents\rad\kmeans\kmeans\obj\Debug\kmeans.csproj.GenerateResource.cache
+C:\Users\sasankaa\Documents\rad\kmeans\kmeans\obj\Debug\kmeans.csproj.CoreCompileInputs.cache
+C:\Users\sasankaa\Documents\rad\kmeans\kmeans\obj\Debug\kmeans.exe
+C:\Users\sasankaa\Documents\rad\kmeans\kmeans\obj\Debug\kmeans.pdb
+C:\Users\sasankaa\Documents\rad\kmeans-modified\kmeans\bin\Debug\kmeans.exe.config
+C:\Users\sasankaa\Documents\rad\kmeans-modified\kmeans\bin\Debug\kmeans.exe
+C:\Users\sasankaa\Documents\rad\kmeans-modified\kmeans\bin\Debug\kmeans.pdb
+C:\Users\sasankaa\Documents\rad\kmeans-modified\kmeans\obj\Debug\kmeans.csprojAssemblyReference.cache
+C:\Users\sasankaa\Documents\rad\kmeans-modified\kmeans\obj\Debug\kmeans.Form1.resources
+C:\Users\sasankaa\Documents\rad\kmeans-modified\kmeans\obj\Debug\kmeans.Properties.Resources.resources
+C:\Users\sasankaa\Documents\rad\kmeans-modified\kmeans\obj\Debug\kmeans.csproj.GenerateResource.cache
+C:\Users\sasankaa\Documents\rad\kmeans-modified\kmeans\obj\Debug\kmeans.csproj.CoreCompileInputs.cache
+C:\Users\sasankaa\Documents\rad\kmeans-modified\kmeans\obj\Debug\kmeans.exe
+C:\Users\sasankaa\Documents\rad\kmeans-modified\kmeans\obj\Debug\kmeans.pdb
+D:\Semester 02\rad\kmeans-modified\kmeans\bin\Debug\kmeans.exe.config
+D:\Semester 02\rad\kmeans-modified\kmeans\bin\Debug\kmeans.exe
+D:\Semester 02\rad\kmeans-modified\kmeans\bin\Debug\kmeans.pdb
+D:\Semester 02\rad\kmeans-modified\kmeans\obj\Debug\kmeans.csprojAssemblyReference.cache
+D:\Semester 02\rad\kmeans-modified\kmeans\obj\Debug\kmeans.Form1.resources
+D:\Semester 02\rad\kmeans-modified\kmeans\obj\Debug\kmeans.Properties.Resources.resources
+D:\Semester 02\rad\kmeans-modified\kmeans\obj\Debug\kmeans.csproj.GenerateResource.cache
+D:\Semester 02\rad\kmeans-modified\kmeans\obj\Debug\kmeans.csproj.CoreCompileInputs.cache
+D:\Semester 02\rad\kmeans-modified\kmeans\obj\Debug\kmeans.exe
+D:\Semester 02\rad\kmeans-modified\kmeans\obj\Debug\kmeans.pdb
